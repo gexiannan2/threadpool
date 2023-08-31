@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g   CMakeFiles/ZEROThreadPool.dir/main.cpp.o CMakeFiles/ZEROThreadPool.dir/zero_threadpool.cpp.o  -o ZEROThreadPool -lpthread 

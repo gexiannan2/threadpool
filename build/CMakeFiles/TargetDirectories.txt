@@ -1,0 +1,3 @@
+/home/ubuntu/mythreadpool/threadpool/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/mythreadpool/threadpool/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/mythreadpool/threadpool/build/CMakeFiles/ZEROThreadPool.dir
