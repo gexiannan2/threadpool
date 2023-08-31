@@ -56,7 +56,7 @@ class ZERO_ThreadPool
 
         void stop();
 
-        bool start(); // 创建线程
+        bool start(); 
 
         template <class F, class... Args>
         auto exec(F&& f, Args&&... args) -> std::future<decltype(f(args...))>
